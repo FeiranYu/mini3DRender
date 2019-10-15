@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(494,17): warning C4305:  “+=”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(532,19): warning C4244:  “*=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(533,19): warning C4244:  “*=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(534,19): warning C4244:  “*=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(633,45): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(700,9): warning C4838:  从“int”转换到“DWORD”需要收缩转换
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1083,53): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1084,54): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1085,55): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1086,54): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1087,51): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1094,32): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1099,25): warning C4305:  “+=”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1107,25): warning C4305:  “-=”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1110,34): warning C4305:  “=”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1139,33): warning C4305:  “=”: 从“double”到“float”截断
+C:\Users\Thinkpad\Desktop\mini3D\mini3D\main.cpp(1141,23): warning C4305:  “+=”: 从“double”到“float”截断
+  mini3D.vcxproj -> C:\Users\Thinkpad\Desktop\mini3D\Debug\mini3D.exe
