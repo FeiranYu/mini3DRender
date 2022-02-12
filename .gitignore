@@ -1,0 +1,14 @@
+
+*.db
+*.db-shm
+mini3D/.vs/mini3D/v17/.suo
+*.db-wal
+*.opendb
+*.ipch
+*.exe
+*.exe
+*.pdb
+*.tlog
+*.tlog
+*.idb
+mini3D/mini3D/Debug/mini3D.tlog/mini3D.lastbuildstate

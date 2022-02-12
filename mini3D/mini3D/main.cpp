@@ -1006,14 +1006,16 @@ int main(void)
 
 
 	pCamera = new Camera();
-	pCamera->SetCameraPosition(&vector_t(0.0f, 0.0f, 0.0f));
-	pCamera->SetTargetPosition(&vector_t(0.0f, 0.0f, 5.0f));
+	vector_t CamerPos = vector_t(0.0f, 0.0f, 0.0f);
+	vector_t TargetPos = vector_t(0.0f, 0.0f, 5.0f);
+	pCamera->SetCameraPosition(&CamerPos);
+	pCamera->SetTargetPosition(&TargetPos);
 	pCamera->SetViewMatrix();
 	pCamera->SetProjMatrix();
 
 
 
-	char title[] = "Mini3d (software render tutorial) - "
+	char title[] = "Mini3d  Render "
 		"Left/Right: rotation, Up/Down: forward/backward, Space: switch state";
 
 	if (screen_init(800, 600, title))
